@@ -188,28 +188,3 @@ The built files will be in the `.next` directory.
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
-
-## Support
-
-For issues and questions:
-1. Check existing GitHub issues
-2. Create a new issue with detailed description
-3. Include browser and version information
-
-Your project is live at:
-
-**[https://vercel.com/littlehingesvtt-8060s-projects/v0-calendar-redesign-needed](https://vercel.com/littlehingesvtt-8060s-projects/v0-calendar-redesign-needed)**
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/OeUsoie7Y0d](https://v0.dev/chat/projects/OeUsoie7Y0d)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
